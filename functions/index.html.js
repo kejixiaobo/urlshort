@@ -12,7 +12,6 @@ let responseString =`
       font-family: Arial, sans-serif;
       background-color: #f5f5f5;
     }
-
     h1 {
       text-align: center;
       color: #333;
