@@ -1,7 +1,6 @@
 let responseString =`
 <!DOCTYPE html>
 <html>
-
 <head>
   <title>URL Shorter</title>
   <meta charset="UTF-8">
